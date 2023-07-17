@@ -4,4 +4,4 @@
     Test
 </button>
 
-<a href="/login" class="btn">Login</a>
+<a href="login" class="btn">Login</a>
